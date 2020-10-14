@@ -1,0 +1,13 @@
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\bin\Debug\netcoreapp3.1\DownloadCSV.exe
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\bin\Debug\netcoreapp3.1\DownloadCSV.deps.json
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\bin\Debug\netcoreapp3.1\DownloadCSV.runtimeconfig.json
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\bin\Debug\netcoreapp3.1\DownloadCSV.runtimeconfig.dev.json
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\bin\Debug\netcoreapp3.1\DownloadCSV.dll
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\bin\Debug\netcoreapp3.1\DownloadCSV.pdb
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.csprojAssemblyReference.cache
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.AssemblyInfoInputs.cache
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.AssemblyInfo.cs
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.csproj.CoreCompileInputs.cache
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.dll
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.pdb
+C:\Users\yingz\source\repos\DownloadCSV\DownloadCSV\obj\Debug\netcoreapp3.1\DownloadCSV.genruntimeconfig.cache
